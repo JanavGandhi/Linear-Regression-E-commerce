@@ -1,5 +1,5 @@
 # Linear-Regression-E-commerce
-🧠 Customer Spending Prediction with Linear Regression
+🧠 Customer Spending Prediction with Linear Regression \n
 This project builds a linear regression model to predict how much a customer will spend yearly, based on their activity data such as average session length, app usage, website usage, and membership length.
 
 📊 Dataset 
