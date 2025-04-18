@@ -1,11 +1,11 @@
 # Linear-Regression-E-commerce
-🧠 Customer Spending Prediction with Linear Regression \n
+🧠 Customer Spending Prediction with Linear Regression  
 This project builds a linear regression model to predict how much a customer will spend yearly, based on their activity data such as average session length, app usage, website usage, and membership length.
 
-📊 Dataset 
+📊 Dataset   
 https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website
 
-📈 Model Evaluation
+📈 Model Evaluation  
 After training the linear regression model, the following metrics were reported:
 
 Mean Absolute Error (MAE): ~8.43
